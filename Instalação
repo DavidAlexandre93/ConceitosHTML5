@@ -1,0 +1,8 @@
+Instalar servidor do Node
+npm i -g http-server
+
+Startando servidor sem cache
+http-server -c-1 .
+
+Instalar Plugin pelo vscode
+Preview

@@ -1,0 +1,12 @@
+Instalar as seguintes dependencias para inicio
+npm i --save express@4.16.3 -E
+npm i --save body-parser@1.18.2-E
+
+Para iniciar o Servidor.js
+node server.js
+
+Iniciar o server http sem cache
+http-server -c-1 .
+
+Instalar para melhor desenpenho e auto-refresh o nodemon
+npm i --save-dev nodemon
